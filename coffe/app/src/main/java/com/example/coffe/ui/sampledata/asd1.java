@@ -1,2 +1,4 @@
-package com.example.coffe.ui.sampledata;public class asd1 {
+package com.example.coffe.ui.sampledata;
+
+public class asd1 {
 }
